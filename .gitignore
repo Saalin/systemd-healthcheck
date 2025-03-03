@@ -1,0 +1,8 @@
+# Ignore Go build files
+systemd-healthcheck
+*.exe
+*.out
+*.log
+
+# Go module files
+vendor/
